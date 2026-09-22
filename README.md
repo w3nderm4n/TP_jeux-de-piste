@@ -12,7 +12,7 @@ http://172.16.3.254:8001/decouverte-des-parametres
 
 | Nom | Type | Valeur |
 |---|---|---|
-| `nom` | Query | `mael` |
+| `nom` | `Query` | `mael` |
 
 ## Requête complète
 
@@ -34,8 +34,8 @@ http://172.16.3.254:8001/plusieurs-parametres
 
 | Nom | Type | Valeur |
 |---|---|---|
-| `prenom` | Query | `mael` |
-| `age` | Query | `18` |
+| `prenom` | `Query` | `mael` |
+| `age` | `Query` | `18` |
 
 ## Requête complète
 
@@ -114,7 +114,7 @@ http://172.16.3.254:8001/et-oui-delete
 
 | Nom | Type | Valeur |
 |---|---|---|
-| `filename` | Query | `test` |
+| `filename` | `Query` | `test` |
 
 ## Requête complète
 
